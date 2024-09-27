@@ -5,3 +5,4 @@
 /.vs
 /obj
 /DockerFile
+/bin/Debug/net6.0
